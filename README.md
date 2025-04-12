@@ -1,5 +1,6 @@
 # denoising-diffusion-pytorch
-Implementation of Denoising Diffusion Probabilistic Models in PyTorch
+
+Implementation of Denoising Diffusion Probabilistic Models in PyTorch (will check on it later)
 
 ## Installation
 
